@@ -74,14 +74,6 @@ The model outperforms the baseline Polyp-PVT while maintaining efficiency.
 
 ---
 
-## 📁 Project Structure
-
-PVT_MiniUnet/
-├── Minor_Final_PolyPVT4.ipynb
-├── README.md
-└── images/
----
-
 ## 📚 References
 - Dong et al., *Polyp-PVT: Polyp Segmentation with Pyramid Vision Transformers*, 2023  
 - Ronneberger et al., *U-Net: Convolutional Networks for Biomedical Image Segmentation*, 2015  
