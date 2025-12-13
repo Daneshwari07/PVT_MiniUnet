@@ -75,11 +75,11 @@ The model outperforms the baseline Polyp-PVT while maintaining efficiency.
 ---
 
 ## 📁 Project Structure
+
 PVT_MiniUnet/
-│
 ├── Minor_Final_PolyPVT4.ipynb
 ├── README.md
-
+└── images/
 ---
 
 ## 📚 References
