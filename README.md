@@ -21,7 +21,7 @@ This work is an enhanced and simplified variant of the **Polyp-PVT** architectur
 The proposed PVT-MiniUNet architecture integrates a Transformer-based encoder with a lightweight convolutional decoder to achieve accurate and efficient colon polyp segmentation.
 
 <p align="center">
-  <img src="architecture/architecture.png" alt="PVT-MiniUNet Architecture" width="800">
+  <img src="images/model_architecture.png" alt="PVT-MiniUNet Architecture" width="800">
 </p>
 
 **Figure:** Overall architecture of the proposed PVT-MiniUNet model consisting of a PVTv2 encoder, Cascaded Fusion Module (CFM), Camouflage Identification Module (CIM), and a lightweight Mini-UNet decoder.
