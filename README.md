@@ -28,7 +28,7 @@ The proposed PVT-MiniUNet architecture integrates a Transformer-based encoder wi
 
 The proposed architecture consists of:
 
-(Transformer-based multi-scale feature extractor)
+**Encoder:** PVTv2-B2 Transformer
 - **Modules:**
   - Cascaded Fusion Module (CFM)
   - Camouflage Identification Module (CIM)
